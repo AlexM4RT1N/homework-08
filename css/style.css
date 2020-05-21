@@ -64,6 +64,9 @@ img, a {
   font-size: 30px;
   margin-bottom: 15px;
 }
+.header__item-title span {
+  display: block;
+}
 .header__item-text { 
   color: #ffffff;
   font-family: Roboto;
